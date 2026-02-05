@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our London Adventures | Flo & Lexi's Blog</title>
+    <meta name="description" content="Follow Flo and Lexi's adventures around the world! Read about their visits to iconic landmarks and exciting places as they explore together.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Patrick+Hand&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <i class="fas fa-paw"></i>
+                <span>The Unexpected Adventures of Flo & Lexi</span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="blog.html" class="active">Adventures</a></li>
+            </ul>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Our London Adventures 🗺️</h1>
+            <p>Every day brings a new exciting place to explore!</p>
+        </div>
+    </section>
+
+    <!-- Blog Introduction -->
+    <section class="blog-intro">
+        <div class="container">
+            <h2>Welcome to Our Adventure Journal!</h2>
+            <p class="narrator-voice" style="font-size: 1.3rem; margin: var(--spacing-sm) 0;">"Woof! This is where I write about all our amazing adventures in London!" - Flo</p>
+            <p style="font-size: 1.1rem; max-width: 700px; margin: 0 auto; color: var(--text-light);">
+                From the towering Big Ben to the royal Buckingham Palace, from the ancient Tower of London to the spinning London Eye - 
+                Lexi and I are exploring every magical corner of this incredible city! Check back every 1-2 days for new stories of our adventures.
+            </p>
+        </div>
+    </section>
+
+    <!-- Blog Posts Section -->
+    <section class="blog-posts">
+        <div class="container">
+            <div id="blog-container">
+                <!-- Blog posts will be inserted here by JavaScript -->
+                <!-- For now, showing a "coming soon" message -->
+                <div class="no-posts">
+                    <div class="no-posts-icon">
+                        <i class="fas fa-map-marked-alt"></i>
+                    </div>
+                    <h3>Our First Adventure is Coming Soon!</h3>
+                    <p class="narrator-voice" style="font-size: 1.3rem; margin: var(--spacing-md) 0;">"Lexi and I are getting ready for our first big adventure! We're packing our bags, checking our map, and making sure we have plenty of treats!"</p>
+                    <p style="font-size: 1.1rem; margin-bottom: var(--spacing-sm);">
+                        We're planning to visit some of London's most iconic landmarks, including:
+                    </p>
+                    
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--spacing-md); margin: var(--spacing-lg) 0; text-align: left;">
+                        <div style="background: var(--bg-cream); padding: var(--spacing-md); border-radius: var(--radius-md); border-left: 4px solid var(--primary-color);">
+                            <h4 style="color: var(--primary-color); margin-bottom: var(--spacing-xs);"><i class="fas fa-landmark"></i> Big Ben & Houses of Parliament</h4>
+                            <p style="font-size: 0.95rem;">The famous clock tower that goes BONG!</p>
+                        </div>
+                        
+                        <div style="background: var(--bg-cream); padding: var(--spacing-md); border-radius: var(--radius-md); border-left: 4px solid var(--secondary-color);">
+                            <h4 style="color: var(--secondary-color); margin-bottom: var(--spacing-xs);"><i class="fas fa-crown"></i> Buckingham Palace</h4>
+                            <p style="font-size: 0.95rem;">Where the King lives with all the guards!</p>
+                        </div>
+                        
+                        <div style="background: var(--bg-cream); padding: var(--spacing-md); border-radius: var(--radius-md); border-left: 4px solid var(--lexi-green);">
+                            <h4 style="color: var(--lexi-green); margin-bottom: var(--spacing-xs);"><i class="fas fa-chess-rook"></i> Tower of London</h4>
+                            <p style="font-size: 0.95rem;">An ancient castle with ravens and treasures!</p>
+                        </div>
+                        
+                        <div style="background: var(--bg-cream); padding: var(--spacing-md); border-radius: var(--radius-md); border-left: 4px solid var(--london-blue);">
+                            <h4 style="color: var(--london-blue); margin-bottom: var(--spacing-xs);"><i class="fas fa-ferris-wheel"></i> London Eye</h4>
+                            <p style="font-size: 0.95rem;">The giant wheel that touches the sky!</p>
+                        </div>
+                        
+                        <div style="background: var(--bg-cream); padding: var(--spacing-md); border-radius: var(--radius-md); border-left: 4px solid var(--heart-pink);">
+                            <h4 style="color: var(--heart-pink); margin-bottom: var(--spacing-xs);"><i class="fas fa-theater-masks"></i> Leicester Square</h4>
+                            <p style="font-size: 0.95rem;">Bright lights and street performers!</p>
+                        </div>
+                        
+                        <div style="background: var(--bg-cream); padding: var(--spacing-md); border-radius: var(--radius-md); border-left: 4px solid var(--accent-color);">
+                            <h4 style="color: var(--text-dark); margin-bottom: var(--spacing-xs);"><i class="fas fa-map-marked-alt"></i> And Many More!</h4>
+                            <p style="font-size: 0.95rem;">So many amazing places to discover!</p>
+                        </div>
+                    </div>
+                    
+                    <div style="background: linear-gradient(135deg, var(--accent-color), #FFE0B2); padding: var(--spacing-lg); border-radius: var(--radius-lg); margin: var(--spacing-lg) 0;">
+                        <h4 style="font-size: 1.5rem; margin-bottom: var(--spacing-sm);">📅 Check Back Soon!</h4>
+                        <p style="font-size: 1.1rem;">We'll be posting our first adventure very soon! New stories will appear every 1-2 days, so make sure to visit regularly to follow along on our journey around the world.</p>
+                    </div>
+                    
+                    <div style="margin-top: var(--spacing-lg);">
+                        <a href="about.html" class="btn btn-primary">Learn More About Us</a>
+                        <a href="index.html" class="btn btn-secondary" style="margin-left: var(--spacing-sm);">Back to Home</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Adventures Template (Hidden - for future use) -->
+    <template id="blog-post-template">
+        <article class="blog-post-card">
+            <img class="blog-post-image" src="" alt="">
+            <div class="blog-post-content">
+                <p class="blog-post-date"></p>
+                <h2 class="blog-post-title"></h2>
+                <p class="blog-post-excerpt"></p>
+                <a href="#" class="read-more">
+                    Read Full Adventure <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </article>
+    </template>
+
+    <!-- VIP Signup Section -->
+    <section class="vip-signup-section" style="background: linear-gradient(135deg, var(--primary-color), var(--accent-color)); padding: var(--spacing-xl) 0; text-align: center; color: white;">
+        <div class="container" style="max-width: 700px;">
+            <div style="font-size: 3rem; margin-bottom: var(--spacing-sm);">✨ 🐾 ✨</div>
+            <h2 style="font-size: 2.5rem; color: white; margin-bottom: var(--spacing-md);">Join the VIP Adventure Club!</h2>
+            <p style="font-size: 1.3rem; margin-bottom: var(--spacing-sm); line-height: 1.6;">Be the first to know when Flo & Lexi discover new adventures!</p>
+            <p style="font-size: 1.1rem; margin-bottom: var(--spacing-lg); opacity: 0.95;">Get exclusive updates, behind-the-scenes stories, and special surprises delivered right to your inbox! 📧</p>
+            
+            <div style="background: white; padding: var(--spacing-lg); border-radius: var(--radius-lg); box-shadow: var(--shadow-xl); margin-bottom: var(--spacing-md);">
+                <h3 style="color: var(--primary-color); margin-bottom: var(--spacing-md); font-size: 1.5rem;">🌟 VIP Members Get:</h3>
+                <ul style="list-style: none; padding: 0; text-align: left; max-width: 400px; margin: 0 auto; color: var(--text-dark);">
+                    <li style="margin-bottom: var(--spacing-sm); font-size: 1.1rem;"><i class="fas fa-check-circle" style="color: var(--lexi-green); margin-right: 10px;"></i> Early access to new adventures</li>
+                    <li style="margin-bottom: var(--spacing-sm); font-size: 1.1rem;"><i class="fas fa-check-circle" style="color: var(--lexi-green); margin-right: 10px;"></i> Exclusive behind-the-scenes stories</li>
+                    <li style="margin-bottom: var(--spacing-sm); font-size: 1.1rem;"><i class="fas fa-check-circle" style="color: var(--lexi-green); margin-right: 10px;"></i> Special updates from Flo & Lexi</li>
+                    <li style="margin-bottom: var(--spacing-sm); font-size: 1.1rem;"><i class="fas fa-check-circle" style="color: var(--lexi-green); margin-right: 10px;"></i> Fun surprises and sneak peeks</li>
+                </ul>
+            </div>
+            
+            <a href="https://mailchi.mp/b46ca61ee938/flo-lexi-vip-list-signup" class="btn" style="background: white; color: var(--primary-color); font-size: 1.3rem; padding: 18px 40px; font-weight: 600; text-decoration: none; display: inline-block; border-radius: var(--radius-md); box-shadow: var(--shadow-lg); transition: all 0.3s ease; border: 3px solid white;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.2)';">
+                <i class="fas fa-envelope" style="margin-right: 10px;"></i> Join the VIP Club Now!
+            </a>
+            
+            <p style="font-size: 0.95rem; margin-top: var(--spacing-md); opacity: 0.9;">🎉 It's free and you can unsubscribe anytime! 🎉</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3><i class="fas fa-paw"></i> The Unexpected Adventures of Flo & Lexi</h3>
+                    <p>Following two best friends as they explore amazing places around the world, one paw print at a time!</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="blog.html">Adventures</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Follow Our Journey</h3>
+                    <p>New adventures posted every 1-2 days!</p>
+                    <p class="stay-tuned">🌟 Stay tuned for more amazing stories! 🌟</p>
+                    <a href="https://mailchi.mp/b46ca61ee938/flo-lexi-vip-list-signup" class="btn btn-accent" style="margin-top: var(--spacing-sm); display: inline-block; font-size: 0.95rem; padding: 10px 20px;">
+                        <i class="fas fa-envelope"></i> Join VIP Club
+                    </a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 The Unexpected Adventures of Flo & Lexi. Made with <i class="fas fa-heart"></i> and lots of tail wags!</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
