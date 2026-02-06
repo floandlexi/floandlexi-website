@@ -352,7 +352,7 @@ This project is created for personal use to document the real adventures of Flo 
    - Bright lights and street performers
    - Accessible at: `adventure-4-leicester-square.html`
 
-5. **Our Fifth Adventure: Buckingham Palace! 👑** ⭐ NEW!
+5. **Our Fifth Adventure: Buckingham Palace! 👑**
    - Where the King lives!
    - Flo's excitement: "Can I meet him? Can I? Can I?!"
    - The Changing of the Guard ceremony
@@ -361,6 +361,16 @@ This project is created for personal use to document the real adventures of Flo 
    - Lexi's wise words: "Maybe next time, Flo."
    - **A truly royal adventure!**
    - Accessible at: `adventure-5-buckingham-palace.html`
+
+6. **Our Sixth Adventure: Hop-On Hop-Off Bus Tour! 🚌** ⭐ NEW!
+   - The BEST way to see London!
+   - Riding on the open-top deck with amazing views
+   - "Why walk when we can go by bus!"
+   - Learning from audio guides in 40+ languages
+   - Hopping off at favorite landmarks
+   - Discovering tours are available in 100+ cities worldwide
+   - **The perfect way to celebrate all their London adventures!**
+   - Accessible at: `adventure-6-hop-on-hop-off.html`
 
 ### 🔜 Coming Soon
 - St Paul's Cathedral (story ready in Hub files!)
@@ -380,4 +390,4 @@ This project is created for personal use to document the real adventures of Flo 
 
 **Built with ❤️ for Flo & Lexi's Amazing Adventures!** 🐾
 
-*Last Updated: February 2026 - Fifth Adventure Added: Buckingham Palace! 👑*
+*Last Updated: February 2026 - Sixth Adventure Added: Hop-On Hop-Off Bus Tour! 🚌*

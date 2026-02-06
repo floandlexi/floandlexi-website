@@ -78,6 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // SIXTH adventure - Hop-On Hop-Off Bus Tour
+    {
+        id: 6,
+        title: "Our Sixth Adventure: Hop-On Hop-Off Bus Tour! 🚌",
+        location: "All Around London - The Best Sightseeing Tour!",
+        image: "https://www.genspark.ai/api/files/s/kolSxNjt",
+        excerpt: "Why walk when we can go by bus! We discovered the BEST way to see London - from the top deck of a Hop-On Hop-Off tour bus! We could hop off whenever we wanted and learn amazing facts along the way! 🚌✨",
+        url: "adventure-6-hop-on-hop-off.html"
+    },
+    
     // FIFTH adventure - Buckingham Palace
     {
         id: 5,
