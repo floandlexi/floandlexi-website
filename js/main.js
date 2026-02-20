@@ -78,6 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // SEVENTH adventure - London Eye
+    {
+        id: 7,
+        title: "Our Seventh Adventure: The London Eye! 🎡",
+        location: "South Bank, River Thames",
+        image: "https://www.genspark.ai/api/files/s/bzKPPitB",
+        excerpt: "LEXI! It's a GIANT WHEEL in the sky! We soared 135 meters high in a glass pod and saw ALL of London from above! Big Ben, Buckingham Palace, the Tower - we could see every adventure we've had together! 🎡✨",
+        url: "adventure-7-london-eye.html"
+    },
+    
     // SIXTH adventure - Hop-On Hop-Off Bus Tour
     {
         id: 6,

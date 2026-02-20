@@ -362,7 +362,7 @@ This project is created for personal use to document the real adventures of Flo 
    - **A truly royal adventure!**
    - Accessible at: `adventure-5-buckingham-palace.html`
 
-6. **Our Sixth Adventure: Hop-On Hop-Off Bus Tour! 🚌** ⭐ NEW!
+6. **Our Sixth Adventure: Hop-On Hop-Off Bus Tour! 🚌**
    - The BEST way to see London!
    - Riding on the open-top deck with amazing views
    - "Why walk when we can go by bus!"
@@ -372,9 +372,18 @@ This project is created for personal use to document the real adventures of Flo 
    - **The perfect way to celebrate all their London adventures!**
    - Accessible at: `adventure-6-hop-on-hop-off.html`
 
+7. **Our Seventh Adventure: The London Eye! 🎡** ⭐ NEW!
+   - LEXI! It's a GIANT WHEEL in the sky!
+   - Soaring 135 meters high in a glass pod
+   - 30-minute rotation with breathtaking views
+   - Seeing ALL of London from above
+   - Spotting every adventure they've had together
+   - "It's like seeing our whole adventure from the sky!" - Lexi
+   - **The perfect bird's-eye view of their journey!**
+   - Accessible at: `adventure-7-london-eye.html`
+
 ### 🔜 Coming Soon
 - St Paul's Cathedral (story ready in Hub files!)
-- London Eye
 - Tower Bridge
 - Covent Garden
 - And many more adventures!
@@ -390,4 +399,4 @@ This project is created for personal use to document the real adventures of Flo 
 
 **Built with ❤️ for Flo & Lexi's Amazing Adventures!** 🐾
 
-*Last Updated: February 2026 - Sixth Adventure Added: Hop-On Hop-Off Bus Tour! 🚌*
+*Last Updated: February 2026 - Seventh Adventure Added: The London Eye! 🎡*
