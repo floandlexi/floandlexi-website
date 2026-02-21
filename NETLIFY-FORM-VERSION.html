@@ -1,0 +1,86 @@
+<!-- NETLIFY FORMS VERSION -->
+<!-- If you host on Netlify, replace the form in contact.html with this version -->
+
+<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/thank-you.html" style="max-width: 600px; margin: 0 auto;">
+    
+    <!-- Honeypot for spam protection -->
+    <input type="hidden" name="bot-field" />
+    
+    <!-- Netlify needs this hidden field -->
+    <input type="hidden" name="form-name" value="contact" />
+    
+    <!-- Name Field -->
+    <div style="margin-bottom: var(--spacing-md);">
+        <label for="name" style="display: block; font-weight: 600; color: var(--text-dark); margin-bottom: var(--spacing-xs); font-size: 1.1rem;">
+            <i class="fas fa-user"></i> Your Name *
+        </label>
+        <input 
+            type="text" 
+            id="name" 
+            name="name" 
+            required 
+            placeholder="Enter your name"
+            style="width: 100%; padding: var(--spacing-sm); border: 2px solid var(--bg-cream); border-radius: var(--radius-md); font-size: 1rem; font-family: 'Fredoka', sans-serif; transition: border-color 0.3s ease;"
+        >
+    </div>
+
+    <!-- Email Field -->
+    <div style="margin-bottom: var(--spacing-md);">
+        <label for="email" style="display: block; font-weight: 600; color: var(--text-dark); margin-bottom: var(--spacing-xs); font-size: 1.1rem;">
+            <i class="fas fa-envelope"></i> Your Email Address *
+        </label>
+        <input 
+            type="email" 
+            id="email" 
+            name="email" 
+            required 
+            placeholder="your.email@example.com"
+            style="width: 100%; padding: var(--spacing-sm); border: 2px solid var(--bg-cream); border-radius: var(--radius-md); font-size: 1rem; font-family: 'Fredoka', sans-serif; transition: border-color 0.3s ease;"
+        >
+    </div>
+
+    <!-- Country Field -->
+    <div style="margin-bottom: var(--spacing-md);">
+        <label for="country" style="display: block; font-weight: 600; color: var(--text-dark); margin-bottom: var(--spacing-xs); font-size: 1.1rem;">
+            <i class="fas fa-globe"></i> Your Country *
+        </label>
+        <input 
+            type="text" 
+            id="country" 
+            name="country" 
+            required 
+            placeholder="e.g., United Kingdom, USA, Australia..."
+            style="width: 100%; padding: var(--spacing-sm); border: 2px solid var(--bg-cream); border-radius: var(--radius-md); font-size: 1rem; font-family: 'Fredoka', sans-serif; transition: border-color 0.3s ease;"
+        >
+    </div>
+
+    <!-- Message Field -->
+    <div style="margin-bottom: var(--spacing-lg);">
+        <label for="message" style="display: block; font-weight: 600; color: var(--text-dark); margin-bottom: var(--spacing-xs); font-size: 1.1rem;">
+            <i class="fas fa-comment"></i> Your Message *
+        </label>
+        <textarea 
+            id="message" 
+            name="message" 
+            required 
+            rows="8"
+            placeholder="Tell us about your adventures, ask us questions, or just say hello! We read every message! 🐾"
+            style="width: 100%; padding: var(--spacing-sm); border: 2px solid var(--bg-cream); border-radius: var(--radius-md); font-size: 1rem; font-family: 'Fredoka', sans-serif; resize: vertical; transition: border-color 0.3s ease;"
+        ></textarea>
+    </div>
+
+    <!-- Submit Button -->
+    <div style="text-align: center;">
+        <button 
+            type="submit" 
+            class="btn btn-primary" 
+            style="font-size: 1.2rem; padding: var(--spacing-md) var(--spacing-xl); cursor: pointer;"
+        >
+            <i class="fas fa-paper-plane"></i> Send Message to Flo & Lexi
+        </button>
+    </div>
+
+    <p style="text-align: center; color: var(--text-light); margin-top: var(--spacing-md); font-size: 0.9rem;">
+        * Required fields
+    </p>
+</form>
