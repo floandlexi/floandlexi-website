@@ -372,7 +372,7 @@ This project is created for personal use to document the real adventures of Flo 
    - **The perfect way to celebrate all their London adventures!**
    - Accessible at: `adventure-6-hop-on-hop-off.html`
 
-7. **Our Seventh Adventure: The London Eye! 🎡** ⭐ NEW!
+7. **Our Seventh Adventure: The London Eye! 🎡**
    - LEXI! It's a GIANT WHEEL in the sky!
    - Soaring 135 meters high in a glass pod
    - 30-minute rotation with breathtaking views
@@ -381,6 +381,16 @@ This project is created for personal use to document the real adventures of Flo 
    - "It's like seeing our whole adventure from the sky!" - Lexi
    - **The perfect bird's-eye view of their journey!**
    - Accessible at: `adventure-7-london-eye.html`
+
+8. **Our Eighth Adventure: Trafalgar Square! 🦁** ⭐ NEW!
+   - "But Lexi, the pigeons LOVE playing chase with me!"
+   - Discovering Nelson's Column (the world's tallest scratching post!)
+   - Meeting the four magnificent bronze lion guardians
+   - Learning about Admiral Nelson and the Battle of Trafalgar
+   - Flo's enthusiastic pigeon greetings (oops!)
+   - Beautiful fountains and the National Gallery
+   - **Learning that best friends balance each other perfectly!**
+   - Accessible at: `adventure-8-trafalgar-square.html`
 
 ### 🔜 Coming Soon
 - St Paul's Cathedral (story ready in Hub files!)
@@ -399,4 +409,4 @@ This project is created for personal use to document the real adventures of Flo 
 
 **Built with ❤️ for Flo & Lexi's Amazing Adventures!** 🐾
 
-*Last Updated: February 2026 - Seventh Adventure Added: The London Eye! 🎡*
+*Last Updated: February 2026 - Eighth Adventure Added: Trafalgar Square! 🦁*

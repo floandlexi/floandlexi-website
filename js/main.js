@@ -78,6 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // EIGHTH adventure - Trafalgar Square
+    {
+        id: 8,
+        title: "Our Eighth Adventure: Trafalgar Square! 🦁",
+        location: "Trafalgar Square, City of Westminster",
+        image: "https://www.genspark.ai/api/files/s/ag8CxKSG",
+        excerpt: "But Lexi, the pigeons LOVE playing chase with me! We discovered Nelson's Column (the world's tallest scratching post!), met the magnificent lion guardians, and learned that best friends balance each other perfectly! 🦁✨",
+        url: "adventure-8-trafalgar-square.html"
+    },
+    
     // SEVENTH adventure - London Eye
     {
         id: 7,
