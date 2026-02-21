@@ -78,6 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // NINTH adventure - Chinatown
+    {
+        id: 9,
+        title: "Our Ninth Adventure: Chinatown! 🥟",
+        location: "Chinatown, West End, London",
+        image: "https://www.genspark.ai/api/files/s/pu3EpRBr",
+        excerpt: "These fluffy buns are calling my name! We discovered 80+ restaurants (but only ONE stomach!), tried century eggs (time-machine eggs!), walked through beautiful red gates, and learned that quality beats quantity! 🥟✨",
+        url: "adventure-9-chinatown.html"
+    },
+    
     // EIGHTH adventure - Trafalgar Square
     {
         id: 8,

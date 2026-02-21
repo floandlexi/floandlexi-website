@@ -382,7 +382,7 @@ This project is created for personal use to document the real adventures of Flo 
    - **The perfect bird's-eye view of their journey!**
    - Accessible at: `adventure-7-london-eye.html`
 
-8. **Our Eighth Adventure: Trafalgar Square! 🦁** ⭐ NEW!
+8. **Our Eighth Adventure: Trafalgar Square! 🦁**
    - "But Lexi, the pigeons LOVE playing chase with me!"
    - Discovering Nelson's Column (the world's tallest scratching post!)
    - Meeting the four magnificent bronze lion guardians
@@ -391,6 +391,16 @@ This project is created for personal use to document the real adventures of Flo 
    - Beautiful fountains and the National Gallery
    - **Learning that best friends balance each other perfectly!**
    - Accessible at: `adventure-8-trafalgar-square.html`
+
+9. **Our Ninth Adventure: Chinatown! 🥟** ⭐ NEW!
+   - "These fluffy buns are calling my name!"
+   - Discovering 80+ restaurants with only ONE stomach!
+   - Trying century eggs (time-machine eggs!) for the first time
+   - Walking through magnificent red paifang gates
+   - Exploring shops full of cultural treasures
+   - Learning about Chinese traditions and Lunar New Year
+   - **Quality over quantity - the best adventure lesson!**
+   - Accessible at: `adventure-9-chinatown.html`
 
 ### 🔜 Coming Soon
 - St Paul's Cathedral (story ready in Hub files!)
@@ -409,4 +419,4 @@ This project is created for personal use to document the real adventures of Flo 
 
 **Built with ❤️ for Flo & Lexi's Amazing Adventures!** 🐾
 
-*Last Updated: February 2026 - Eighth Adventure Added: Trafalgar Square! 🦁*
+*Last Updated: February 2026 - Ninth Adventure Added: Chinatown! 🥟*
