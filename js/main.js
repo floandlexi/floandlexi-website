@@ -78,6 +78,66 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // FOURTEENTH adventure - Shopping Spree Overview!
+    {
+        id: 18,
+        title: "Our Fourteenth Adventure: Shopping Spree! 🛍️",
+        location: "Hamleys, Disney Store, Harrods & Oxford Street",
+        image: "https://www.genspark.ai/api/files/s/XjRKAkuw",
+        excerpt: "After our royal invitation, we need OUTFITS! Join us as we visit London's most famous stores: Hamleys, Disney Store, Harrods, and Oxford Street! The ultimate shopping adventure! 🛍️👗",
+        url: "adventure-14-shopping-spree.html"
+    },
+    
+    // FOURTEENTH adventure - Shopping Spree Part 1 - Hamleys!
+    {
+        id: 17,
+        title: "Shopping Spree Part 1: Hamleys - Toy Wonderland! 🎪",
+        location: "Hamleys Toy Store, Regent Street, London",
+        image: "https://www.genspark.ai/api/files/s/fPwmLafx",
+        excerpt: "SEVEN FLOORS OF TOYS! We explored the world's most famous toy store (since 1760!), watched magic shows, tried EVERYTHING, and learned that joy never gets old! 🎪✨",
+        url: "adventure-14-shopping-spree-part-1-hamleys.html"
+    },
+    
+    // FOURTEENTH adventure - Shopping Spree Part 2 - Disney Store!
+    {
+        id: 16,
+        title: "Shopping Spree Part 2: Disney Store - Movie Magic! 🏰",
+        location: "Disney Store, Oxford Street, London",
+        image: "https://www.genspark.ai/api/files/s/Byx4MilD",
+        excerpt: "Step into a world of Disney magic! Giant character displays, princess dress-up, and ELSA AND ANNA singing! Dreams really do come true in this magical store! ✨👑",
+        url: "adventure-14-shopping-spree-part-2-disney-store.html"
+    },
+    
+    // FOURTEENTH adventure - Shopping Spree Part 3 - Harrods!
+    {
+        id: 15,
+        title: "Shopping Spree Part 3: Harrods - Luxury & Lunch! 👑",
+        location: "Harrods, Knightsbridge, London",
+        image: "https://www.genspark.ai/api/files/s/Gz8rsncZ",
+        excerpt: "IS THIS A PALACE?! 330 departments! Egyptian escalators! We had ROYAL LUNCH in the Food Hall and learned that you can window shop anywhere - even at the fanciest store in London! 👑✨",
+        url: "adventure-14-shopping-spree-part-3-harrods.html"
+    },
+    
+    // FOURTEENTH adventure - Shopping Spree Part 4 - Oxford Street!
+    {
+        id: 14,
+        title: "Shopping Spree Part 4: Oxford Street - Royal Outfits! 👗✨",
+        location: "Oxford Street, London",
+        image: "https://www.genspark.ai/api/files/s/0lhS6Ep4",
+        excerpt: "We found them! The PERFECT royal outfits! Flo's elegant blue jacket with her signature red bandana, and Lexi's sophisticated emerald green ensemble! We're palace-ready and still totally US! 👑✨",
+        url: "adventure-14-shopping-spree-part-4-oxford-street.html"
+    },
+    
+    // THIRTEENTH adventure - Hyde Park - A Royal Day!
+    {
+        id: 13,
+        title: "Our Thirteenth Adventure: Hyde Park - A Royal Day! 👑",
+        location: "Hyde Park, Central London",
+        image: "https://www.genspark.ai/api/files/s/3U3UMDX5",
+        excerpt: "Lexi saved me from a scary big dog! Then a ROYAL GUARD delivered an invitation from KING CHARLES inviting us to tea at the Palace! We need outfits! We need etiquette lessons! WE'RE HAVING TEA WITH THE KING! 👑🫖",
+        url: "adventure-13-hyde-park.html"
+    },
+    
     // TWELFTH adventure - Natural History Museum
     {
         id: 12,

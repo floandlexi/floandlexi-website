@@ -423,7 +423,7 @@ This project is created for personal use to document the real adventures of Flo 
    - **Celebrating being different and being yourself!**
    - Accessible at: `adventure-11-camden-market.html`
 
-12. **Our Twelfth Adventure: Natural History Museum! 🦕** ⭐ NEW!
+12. **Our Twelfth Adventure: Natural History Museum! 🦕**
    - "LEXI! IS THAT A REAL DINOSAUR?!"
    - Meeting Hope the blue whale - 25 meters long and over 3.5 tonnes!
    - Discovering Dippy the Diplodocus - 26 meters of herbivore magnificence!
@@ -435,7 +435,22 @@ This project is created for personal use to document the real adventures of Flo 
    - **Understanding we're all part of Earth's magnificent story!**
    - Accessible at: `adventure-12-natural-history-museum.html`
 
+13. **Our Thirteenth Adventure: Hyde Park - A Royal Day! 👑** ⭐ NEW!
+   - Entering beautiful Hyde Park - 350 acres of green space!
+   - A SCARY encounter with a huge angry dog!
+   - Flo hides behind Lexi for protection
+   - Lexi's INCREDIBLE BRAVERY standing up to the big dog!
+   - "GO AWAY!" - Three-legged Lexi protecting her best friend!
+   - Relaxing by the beautiful Serpentine Lake after the scare
+   - A ROYAL GUARD delivers a handwritten invitation!
+   - KING CHARLES invites Flo and Lexi to afternoon tea at the Palace!
+   - "Your courage, friendship, and proof that being different doesn't matter has reached our ears"
+   - Planning royal outfits and learning palace etiquette!
+   - **True friendship means protecting each other, no matter what!**
+   - Accessible at: `adventure-13-hyde-park.html`
+
 ### 🔜 Coming Soon
+- Tea at the Palace with King Charles! (The next chapter of this royal adventure!)
 - St Paul's Cathedral (story ready in Hub files!)
 - Tower Bridge
 - Covent Garden
@@ -452,4 +467,4 @@ This project is created for personal use to document the real adventures of Flo 
 
 **Built with ❤️ for Flo & Lexi's Amazing Adventures!** 🐾
 
-*Last Updated: February 2026 - Twelfth Adventure Added: Natural History Museum! 🦕*
+*Last Updated: February 2026 - Thirteenth Adventure Added: Hyde Park - A Royal Day! 👑*
