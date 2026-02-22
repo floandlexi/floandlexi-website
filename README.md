@@ -392,7 +392,7 @@ This project is created for personal use to document the real adventures of Flo 
    - **Learning that best friends balance each other perfectly!**
    - Accessible at: `adventure-8-trafalgar-square.html`
 
-9. **Our Ninth Adventure: Chinatown! 🥟** ⭐ NEW!
+9. **Our Ninth Adventure: Chinatown! 🥟**
    - "These fluffy buns are calling my name!"
    - Discovering 80+ restaurants with only ONE stomach!
    - Trying century eggs (time-machine eggs!) for the first time
@@ -401,6 +401,39 @@ This project is created for personal use to document the real adventures of Flo 
    - Learning about Chinese traditions and Lunar New Year
    - **Quality over quantity - the best adventure lesson!**
    - Accessible at: `adventure-9-chinatown.html`
+
+10. **Our Tenth Adventure: Borough Market! 🧀**
+   - "Who cares, Lexi! Let's just get ALL the cheese!"
+   - Exploring London's oldest market - over 1000 years old!
+   - Discovering mountains of artisan cheeses to sample
+   - Flo declaring it the "BEST DAY OF MY LIFE" over a bratwurst
+   - Walking under the beautiful Victorian glass roof
+   - Learning about sustainable shopping and local traders
+   - Featured in movies like Harry Potter and Bridget Jones's Diary!
+   - **The 'one stomach' rule applies to cheese too!**
+   - Accessible at: `adventure-10-borough-market.html`
+
+11. **Our Eleventh Adventure: Camden Market! 🎸**
+   - "This place is SO cool, Lexi! Look at all the colors and music!"
+   - Exploring vintage fashion and alternative culture since 1974
+   - Discovering punk, goth, and indie fashion treasures
+   - Learning about music legends like Amy Winehouse
+   - Walking along historic Regent's Canal and watching the locks work
+   - Tasting street food from around the world
+   - **Celebrating being different and being yourself!**
+   - Accessible at: `adventure-11-camden-market.html`
+
+12. **Our Twelfth Adventure: Natural History Museum! 🦕** ⭐ NEW!
+   - "LEXI! IS THAT A REAL DINOSAUR?!"
+   - Meeting Hope the blue whale - 25 meters long and over 3.5 tonnes!
+   - Discovering Dippy the Diplodocus - 26 meters of herbivore magnificence!
+   - Exploring 80 million specimens from across time and space
+   - Watching the volcano model erupt every 30 minutes
+   - Finding meteorites from SPACE and discovering minerals
+   - Exploring the secret Wildlife Garden with 3,000+ species
+   - Learning about Charles Darwin and evolution
+   - **Understanding we're all part of Earth's magnificent story!**
+   - Accessible at: `adventure-12-natural-history-museum.html`
 
 ### 🔜 Coming Soon
 - St Paul's Cathedral (story ready in Hub files!)
@@ -419,4 +452,4 @@ This project is created for personal use to document the real adventures of Flo 
 
 **Built with ❤️ for Flo & Lexi's Amazing Adventures!** 🐾
 
-*Last Updated: February 2026 - Ninth Adventure Added: Chinatown! 🥟*
+*Last Updated: February 2026 - Twelfth Adventure Added: Natural History Museum! 🦕*

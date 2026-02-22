@@ -78,6 +78,36 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // TWELFTH adventure - Natural History Museum
+    {
+        id: 12,
+        title: "Our Twelfth Adventure: Natural History Museum! 🦕",
+        location: "Natural History Museum, South Kensington, London",
+        image: "https://www.genspark.ai/api/files/s/q1CbiwFj",
+        excerpt: "LEXI! IS THAT A REAL DINOSAUR?! We discovered 80 MILLION specimens, met Hope the blue whale (25 meters long!), saw Dippy the Diplodocus, watched a volcano erupt, found space rocks, and learned we're all part of Earth's magnificent story! 🦕✨",
+        url: "adventure-12-natural-history-museum.html"
+    },
+    
+    // ELEVENTH adventure - Camden Market
+    {
+        id: 11,
+        title: "Our Eleventh Adventure: Camden Market! 🎸",
+        location: "Camden Market, Camden Town, London",
+        image: "https://www.genspark.ai/api/files/s/7XxDuvyp",
+        excerpt: "This place is SO cool, Lexi! Look at all the colors and music! We explored vintage fashion, punk culture, street food from around the world, and learned that being different is something to CELEBRATE! 🎸✨",
+        url: "adventure-11-camden-market.html"
+    },
+    
+    // TENTH adventure - Borough Market
+    {
+        id: 10,
+        title: "Our Tenth Adventure: Borough Market! 🧀",
+        location: "Borough Market, Southwark, London",
+        image: "https://www.genspark.ai/api/files/s/E7sOmhMK",
+        excerpt: "Who cares, Lexi! Let's just get ALL the cheese! We explored London's oldest market (over 1000 years old!), discovered mountains of artisan cheese, tried gourmet street food, and learned that the 'one stomach' rule applies to cheese too! 🧀✨",
+        url: "adventure-10-borough-market.html"
+    },
+    
     // NINTH adventure - Chinatown
     {
         id: 9,
