@@ -78,164 +78,174 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
-    // FOURTEENTH adventure - Shopping Spree Overview!
+    // FIFTEENTH adventure - Shopping Spree Overview!
     {
-        id: 18,
-        title: "Our Fourteenth Adventure: Shopping Spree! 🛍️",
+        id: 15,
+        title: "Our Fifteenth Adventure: Shopping Spree! 🛍️",
         location: "Hamleys, Disney Store, Harrods & Oxford Street",
         image: "https://www.genspark.ai/api/files/s/XjRKAkuw",
         excerpt: "After our royal invitation, we need OUTFITS! Join us as we visit London's most famous stores: Hamleys, Disney Store, Harrods, and Oxford Street! The ultimate shopping adventure! 🛍️👗",
-        url: "adventure-14-shopping-spree.html"
+        url: "adventure-15-shopping-spree.html"
     },
     
-    // FOURTEENTH adventure - Shopping Spree Part 1 - Hamleys!
+    // FIFTEENTH adventure - Shopping Spree Part 1 - Hamleys!
     {
-        id: 17,
+        id: 22,
         title: "Shopping Spree Part 1: Hamleys - Toy Wonderland! 🎪",
         location: "Hamleys Toy Store, Regent Street, London",
         image: "https://www.genspark.ai/api/files/s/fPwmLafx",
         excerpt: "SEVEN FLOORS OF TOYS! We explored the world's most famous toy store (since 1760!), watched magic shows, tried EVERYTHING, and learned that joy never gets old! 🎪✨",
-        url: "adventure-14-shopping-spree-part-1-hamleys.html"
+        url: "adventure-15-shopping-spree-part-1-hamleys.html"
     },
     
-    // FOURTEENTH adventure - Shopping Spree Part 2 - Disney Store!
+    // FIFTEENTH adventure - Shopping Spree Part 2 - Disney Store!
     {
-        id: 16,
+        id: 21,
         title: "Shopping Spree Part 2: Disney Store - Movie Magic! 🏰",
         location: "Disney Store, 350-352 Oxford Street, London",
         image: "https://www.genspark.ai/api/files/s/Byx4MilD",
         excerpt: "Step into a world of Disney magic! Giant character displays, princess dress-up, and ELSA AND ANNA singing! Dreams really do come true in this magical store! ✨👑",
-        url: "adventure-14-shopping-spree-part-2-disney-store.html"
+        url: "adventure-15-shopping-spree-part-2-disney-store.html"
     },
     
-    // FOURTEENTH adventure - Shopping Spree Part 3 - Harrods!
+    // FIFTEENTH adventure - Shopping Spree Part 3 - Harrods!
     {
-        id: 15,
+        id: 20,
         title: "Shopping Spree Part 3: Harrods - Luxury & Lunch! 👑",
         location: "Harrods, Knightsbridge, London",
         image: "https://www.genspark.ai/api/files/s/Gz8rsncZ",
         excerpt: "IS THIS A PALACE?! 330 departments! Egyptian escalators! We had ROYAL LUNCH in the Food Hall and learned that you can window shop anywhere - even at the fanciest store in London! 👑✨",
-        url: "adventure-14-shopping-spree-part-3-harrods.html"
+        url: "adventure-15-shopping-spree-part-3-harrods.html"
     },
     
-    // FOURTEENTH adventure - Shopping Spree Part 4 - Oxford Street!
+    // FIFTEENTH adventure - Shopping Spree Part 4 - Oxford Street!
     {
-        id: 14,
+        id: 19,
         title: "Shopping Spree Part 4: Oxford Street - Royal Outfits! 👗✨",
         location: "Oxford Street, London",
         image: "https://www.genspark.ai/api/files/s/0lhS6Ep4",
         excerpt: "We found them! The PERFECT royal outfits! Flo's elegant blue jacket with her signature red bandana, and Lexi's sophisticated emerald green ensemble! We're palace-ready and still totally US! 👑✨",
-        url: "adventure-14-shopping-spree-part-4-oxford-street.html"
+        url: "adventure-15-shopping-spree-part-4-oxford-street.html"
     },
     
-    // THIRTEENTH adventure - Hyde Park - A Royal Day!
+    // FOURTEENTH adventure - Hyde Park - A Royal Day!
     {
-        id: 13,
-        title: "Our Thirteenth Adventure: Hyde Park - A Royal Day! 👑",
+        id: 14,
+        title: "Our Fourteenth Adventure: Hyde Park - A Royal Day! 👑",
         location: "Hyde Park, Central London",
         image: "https://www.genspark.ai/api/files/s/3U3UMDX5",
         excerpt: "Lexi saved me from a scary big dog! Then a ROYAL GUARD delivered an invitation from KING CHARLES inviting us to tea at the Palace! We need outfits! We need etiquette lessons! WE'RE HAVING TEA WITH THE KING! 👑🫖",
-        url: "adventure-13-hyde-park.html"
+        url: "adventure-14-hyde-park.html"
     },
     
-    // TWELFTH adventure - Natural History Museum
+    // THIRTEENTH adventure - Natural History Museum
     {
-        id: 12,
-        title: "Our Twelfth Adventure: Natural History Museum! 🦕",
+        id: 13,
+        title: "Our Thirteenth Adventure: Natural History Museum! 🦕",
         location: "Natural History Museum, South Kensington, London",
         image: "https://www.genspark.ai/api/files/s/q1CbiwFj",
         excerpt: "LEXI! IS THAT A REAL DINOSAUR?! We discovered 80 MILLION specimens, met Hope the blue whale (25 meters long!), saw Dippy the Diplodocus, watched a volcano erupt, found space rocks, and learned we're all part of Earth's magnificent story! 🦕✨",
-        url: "adventure-12-natural-history-museum.html"
+        url: "adventure-13-natural-history-museum.html"
     },
     
-    // ELEVENTH adventure - Camden Market
+    // TWELFTH adventure - Camden Market
     {
-        id: 11,
-        title: "Our Eleventh Adventure: Camden Market! 🎸",
+        id: 12,
+        title: "Our Twelfth Adventure: Camden Market! 🎸",
         location: "Camden Market, Camden Town, London",
         image: "https://www.genspark.ai/api/files/s/7XxDuvyp",
         excerpt: "This place is SO cool, Lexi! Look at all the colors and music! We explored vintage fashion, punk culture, street food from around the world, and learned that being different is something to CELEBRATE! 🎸✨",
-        url: "adventure-11-camden-market.html"
+        url: "adventure-12-camden-market.html"
     },
     
-    // TENTH adventure - Borough Market
+    // ELEVENTH adventure - Borough Market
     {
-        id: 10,
-        title: "Our Tenth Adventure: Borough Market! 🧀",
+        id: 11,
+        title: "Our Eleventh Adventure: Borough Market! 🧀",
         location: "Borough Market, Southwark, London",
         image: "https://www.genspark.ai/api/files/s/E7sOmhMK",
         excerpt: "Who cares, Lexi! Let's just get ALL the cheese! We explored London's oldest market (over 1000 years old!), discovered mountains of artisan cheese, tried gourmet street food, and learned that the 'one stomach' rule applies to cheese too! 🧀✨",
-        url: "adventure-10-borough-market.html"
+        url: "adventure-11-borough-market.html"
     },
     
-    // NINTH adventure - Chinatown
+    // TENTH adventure - Chinatown
     {
-        id: 9,
-        title: "Our Ninth Adventure: Chinatown! 🥟",
+        id: 10,
+        title: "Our Tenth Adventure: Chinatown! 🥟",
         location: "Chinatown, West End, London",
         image: "https://www.genspark.ai/api/files/s/pu3EpRBr",
         excerpt: "These fluffy buns are calling my name! We discovered 80+ restaurants (but only ONE stomach!), tried century eggs (time-machine eggs!), walked through beautiful red gates, and learned that quality beats quantity! 🥟✨",
-        url: "adventure-9-chinatown.html"
+        url: "adventure-10-chinatown.html"
     },
     
-    // EIGHTH adventure - Trafalgar Square
+    // NINTH adventure - Trafalgar Square
     {
-        id: 8,
-        title: "Our Eighth Adventure: Trafalgar Square! 🦁",
+        id: 9,
+        title: "Our Ninth Adventure: Trafalgar Square! 🦁",
         location: "Trafalgar Square, City of Westminster",
         image: "https://www.genspark.ai/api/files/s/ag8CxKSG",
         excerpt: "But Lexi, the pigeons LOVE playing chase with me! We discovered Nelson's Column (the world's tallest scratching post!), met the magnificent lion guardians, and learned that best friends balance each other perfectly! 🦁✨",
-        url: "adventure-8-trafalgar-square.html"
+        url: "adventure-9-trafalgar-square.html"
     },
     
-    // SEVENTH adventure - London Eye
+    // EIGHTH adventure - London Eye
     {
-        id: 7,
-        title: "Our Seventh Adventure: The London Eye! 🎡",
+        id: 8,
+        title: "Our Eighth Adventure: The London Eye! 🎡",
         location: "South Bank, River Thames",
         image: "https://www.genspark.ai/api/files/s/bzKPPitB",
         excerpt: "LEXI! It's a GIANT WHEEL in the sky! We soared 135 meters high in a glass pod and saw ALL of London from above! Big Ben, Buckingham Palace, the Tower - we could see every adventure we've had together! 🎡✨",
-        url: "adventure-7-london-eye.html"
+        url: "adventure-8-london-eye.html"
     },
     
-    // SIXTH adventure - Hop-On Hop-Off Bus Tour
+    // SEVENTH adventure - Hop-On Hop-Off Bus Tour
     {
-        id: 6,
-        title: "Our Sixth Adventure: Hop-On Hop-Off Bus Tour! 🚌",
+        id: 7,
+        title: "Our Seventh Adventure: Hop-On Hop-Off Bus Tour! 🚌",
         location: "All Around London - The Best Sightseeing Tour!",
         image: "https://www.genspark.ai/api/files/s/kolSxNjt",
         excerpt: "Why walk when we can go by bus! We discovered the BEST way to see London - from the top deck of a Hop-On Hop-Off tour bus! We could hop off whenever we wanted and learn amazing facts along the way! 🚌✨",
-        url: "adventure-6-hop-on-hop-off.html"
+        url: "adventure-7-hop-on-hop-off.html"
     },
     
-    // FIFTH adventure - Buckingham Palace
+    // SIXTH adventure - Buckingham Palace
     {
-        id: 5,
-        title: "Our Fifth Adventure: Buckingham Palace! 👑",
+        id: 6,
+        title: "Our Sixth Adventure: Buckingham Palace! 👑",
         location: "Buckingham Palace, Westminster, London",
         image: "https://www.genspark.ai/api/files/s/EiJQ74L1",
         excerpt: "The KING?! Can I meet him? Can I? Can I?! We walked to Buckingham Palace where the King lives! With 775 rooms, 40,000 light bulbs, and the amazing Changing of the Guard ceremony, this was our most ROYAL adventure yet! 👑✨",
-        url: "adventure-5-buckingham-palace.html"
+        url: "adventure-6-buckingham-palace.html"
     },
     
-    // FOURTH adventure - Leicester Square
+    // FIFTH adventure - Leicester Square
     {
-        id: 4,
-        title: "Our Fourth Adventure: Leicester Square! 🎬",
+        id: 5,
+        title: "Our Fifth Adventure: Leicester Square! 🎬",
         location: "Leicester Square, West End, London",
         image: "images/leicester-square-cinema.jpg",
         excerpt: "Can we watch a film? Can we? Can we?! We discovered London's cinema capital with red carpets, movie premieres, and the amazing Charlie Chaplin statue! Lights, camera, adventure! 🎬✨",
-        url: "adventure-4-leicester-square.html"
+        url: "adventure-5-leicester-square.html"
     },
     
-    // THIRD adventure - Big Ben and Houses of Parliament
+    // FOURTH adventure - The Houses of Parliament
+    {
+        id: 4,
+        title: "Our Fourth Adventure: The Houses of Parliament! 🏛️",
+        location: "Palace of Westminster, London",
+        image: "https://www.genspark.ai/api/files/s/fRBL9rsu",
+        excerpt: "After Big Ben, we walked to the magnificent Palace of Westminster where laws are made! With over 1,000 rooms and MPs making important decisions, we learned how democracy works! 🏛️✨",
+        url: "adventure-4-houses-of-parliament.html"
+    },
+    
+    // THIRD adventure - Big Ben & Elizabeth Tower
     {
         id: 3,
-        title: "Our Third Adventure: Big Ben and The Houses of Parliament! 🕐",
+        title: "Our Third Adventure: Big Ben & Elizabeth Tower! 🕐",
         location: "Westminster, London",
         image: "images/big-ben-flo-lexi-scene1.jpg",
         excerpt: "BONG! BONG! BONG! The giant clock tower goes BONG so loud, my big ears were ringing! But Lexi wasn't scared at all - she's so brave! Come see what we discovered about this famous London landmark! 🕐✨",
-        url: "adventure-2-big-ben.html"
+        url: "adventure-3-big-ben.html"
     },
     
     // SECOND adventure - Tower of London
@@ -245,7 +255,7 @@ const adventures = [
         location: "Historic Fortress on the Thames",
         image: "images/tower-of-london.jpg",
         excerpt: "An ancient fortress with sparkling Crown Jewels, legendary ravens, and brave Beefeaters! We can't wait to share this adventure with you! 👑🐦‍⬛",
-        url: "adventure-3-tower-of-london.html"
+        url: "adventure-2-tower-of-london.html"
     },
     
     // FIRST adventure - The Red Bus! (Arriving in London)
