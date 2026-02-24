@@ -78,9 +78,19 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // SIXTEENTH adventure - MEETING THE KING!!! 👑
+    {
+        id: 24,
+        title: "Our Sixteenth Adventure: Meeting The King! 👑",
+        location: "Buckingham Palace, London",
+        image: "https://www.genspark.ai/api/files/s/ntp2tGEZ",
+        excerpt: "THE ULTIMATE ADVENTURE! After all our London journeys, we finally meet King Charles for royal tea at Buckingham Palace! A magical day filled with kindness, inspiration, and life lessons we'll treasure forever! 👑✨",
+        url: "adventure-16-meeting-the-king.html"
+    },
+    
     // FIFTEENTH adventure - Shopping Spree Overview!
     {
-        id: 15,
+        id: 23,
         title: "Our Fifteenth Adventure: Shopping Spree! 🛍️",
         location: "Hamleys, Disney Store, Harrods & Oxford Street",
         image: "https://www.genspark.ai/api/files/s/XjRKAkuw",
@@ -193,7 +203,7 @@ const adventures = [
         id: 8,
         title: "Our Eighth Adventure: The London Eye! 🎡",
         location: "South Bank, River Thames",
-        image: "https://www.genspark.ai/api/files/s/bzKPPitB",
+        image: "https://www.genspark.ai/api/files/s/a3aaiDfd",
         excerpt: "LEXI! It's a GIANT WHEEL in the sky! We soared 135 meters high in a glass pod and saw ALL of London from above! Big Ben, Buckingham Palace, the Tower - we could see every adventure we've had together! 🎡✨",
         url: "adventure-8-london-eye.html"
     },
@@ -233,7 +243,7 @@ const adventures = [
         id: 4,
         title: "Our Fourth Adventure: The Houses of Parliament! 🏛️",
         location: "Palace of Westminster, London",
-        image: "https://www.genspark.ai/api/files/s/fRBL9rsu",
+        image: "https://www.genspark.ai/api/files/s/aUM9VdIS",
         excerpt: "After Big Ben, we walked to the magnificent Palace of Westminster where laws are made! With over 1,000 rooms and MPs making important decisions, we learned how democracy works! 🏛️✨",
         url: "adventure-4-houses-of-parliament.html"
     },
