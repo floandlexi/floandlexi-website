@@ -78,6 +78,36 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // NINETEENTH adventure - THAMES RIVER CRUISE!!! 🚢
+    {
+        id: 27,
+        title: "Our Nineteenth Adventure: Thames River Cruise! 🚢",
+        location: "River Thames, London",
+        image: "https://www.genspark.ai/api/files/s/LtfVUpfi",
+        excerpt: "All aboard! We sail down the historic River Thames, seeing London's famous landmarks from the water! A peaceful journey teaching us that going with the flow brings its own magic! 🚢✨",
+        url: "adventure-19-thames-cruise.html"
+    },
+    
+    // EIGHTEENTH adventure - PORTOBELLO ROAD MARKET!!! 🎨
+    {
+        id: 26,
+        title: "Our Eighteenth Adventure: Portobello Road Market! 🎨",
+        location: "Portobello Road, Notting Hill, London",
+        image: "https://www.genspark.ai/api/files/s/HNOVzu6k",
+        excerpt: "Treasure hunting time! We explore the colorful, world-famous Portobello Road Market—discovering antiques, vintage finds, amazing street food, and learning that the best treasures are the memories we make! 🎨✨",
+        url: "adventure-18-portobello-road.html"
+    },
+    
+    // SEVENTEENTH adventure - ST PAUL'S CATHEDRAL!!! ⛪
+    {
+        id: 25,
+        title: "Our Seventeenth Adventure: St Paul's Cathedral! ⛪",
+        location: "St Paul's Cathedral, City of London",
+        image: "https://www.genspark.ai/api/files/s/ZlV1psWX",
+        excerpt: "528 steps to the top! We climb St Paul's magnificent dome, discover the Whispering Gallery, and learn that every challenge is easier when tackled together! Worth every single step! ⛪✨",
+        url: "adventure-17-st-pauls-cathedral.html"
+    },
+    
     // SIXTEENTH adventure - MEETING THE KING!!! 👑
     {
         id: 24,
