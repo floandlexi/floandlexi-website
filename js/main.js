@@ -78,6 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // TWENTIETH adventure - PICCADILLY CIRCUS!!! 🎭
+    {
+        id: 28,
+        title: "Our Twentieth Adventure: Piccadilly Circus! 🎭",
+        location: "Piccadilly Circus, West End, London",
+        image: "https://www.genspark.ai/api/files/s/Ki2PZMEI",
+        excerpt: "Lights, action, London! We visit the dazzling Piccadilly Circus with its famous LED screens, the Eros statue, and amazing street performers! Discovering that life is about embracing the moment! 🎭✨",
+        url: "adventure-20-piccadilly-circus.html"
+    },
+    
     // NINETEENTH adventure - THAMES RIVER CRUISE!!! 🚢
     {
         id: 27,
