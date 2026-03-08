@@ -78,6 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // TWENTY-FIRST adventure - SEA LIFE LONDON AQUARIUM!!! 🐠
+    {
+        id: 29,
+        title: "Our Twenty-First Adventure: SEA LIFE London Aquarium! 🐠",
+        location: "South Bank, London",
+        image: "https://www.genspark.ai/api/files/s/qGclFZh7",
+        excerpt: "Dive into the underwater world! We explore SEA LIFE London Aquarium, meeting sharks, sea turtles, jellyfish, and hundreds of amazing ocean creatures! Learning that the ocean is full of wonders we must protect! 🐠🌊",
+        url: "adventure-21-sea-life-aquarium.html"
+    },
+    
     // TWENTIETH adventure - PICCADILLY CIRCUS!!! 🎭
     {
         id: 28,
