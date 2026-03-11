@@ -78,6 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 // Array to store blog post adventures
 // Add new adventures here as they happen!
 const adventures = [
+    // TWENTY-SECOND adventure - LONDON ZOO!!! 🦁 THE GRAND FINALE!
+    {
+        id: 30,
+        title: "Our Twenty-Second Adventure: London Zoo! 🦁",
+        location: "London Zoo, Regent's Park",
+        image: "https://www.genspark.ai/api/files/s/1M1dLvc4",
+        excerpt: "The FINAL London adventure! We visit the world's oldest zoo (opened 1828!), meet giraffes, lions, penguins, and the amazing tiger cubs Zac and Crispin! Discovering 750+ species and reflecting on all our London memories. Exhausted but happy - adventure buddies forever! 🦁✨",
+        url: "adventure-22-london-zoo.html"
+    },
+    
     // TWENTY-FIRST adventure - SEA LIFE LONDON AQUARIUM!!! 🐠
     {
         id: 29,

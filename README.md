@@ -435,26 +435,94 @@ This project is created for personal use to document the real adventures of Flo 
    - **Understanding we're all part of Earth's magnificent story!**
    - Accessible at: `adventure-12-natural-history-museum.html`
 
-13. **Our Thirteenth Adventure: Hyde Park - A Royal Day! 👑** ⭐ NEW!
-   - Entering beautiful Hyde Park - 350 acres of green space!
-   - A SCARY encounter with a huge angry dog!
-   - Flo hides behind Lexi for protection
-   - Lexi's INCREDIBLE BRAVERY standing up to the big dog!
-   - "GO AWAY!" - Three-legged Lexi protecting her best friend!
-   - Relaxing by the beautiful Serpentine Lake after the scare
-   - A ROYAL GUARD delivers a handwritten invitation!
-   - KING CHARLES invites Flo and Lexi to afternoon tea at the Palace!
-   - "Your courage, friendship, and proof that being different doesn't matter has reached our ears"
-   - Planning royal outfits and learning palace etiquette!
-   - **True friendship means protecting each other, no matter what!**
-   - Accessible at: `adventure-13-hyde-park.html`
+13. **Our Thirteenth Adventure: Natural History Museum! 🦕**
+   - "LEXI! IS THAT A REAL DINOSAUR?!"
+   - Meeting Hope the blue whale - 25 meters long!
+   - Discovering Dippy the Diplodocus
+   - Exploring 80 million specimens
+   - **Understanding we're all part of Earth's story!**
+   - Accessible at: `adventure-13-natural-history-museum.html`
 
-### 🔜 Coming Soon
-- Tea at the Palace with King Charles! (The next chapter of this royal adventure!)
-- St Paul's Cathedral (story ready in Hub files!)
-- Tower Bridge
-- Covent Garden
-- And many more adventures!
+14. **Our Fourteenth Adventure: Hyde Park - A Royal Day! 👑**
+   - 350 acres of green space!
+   - A SCARY encounter with a huge angry dog!
+   - Lexi's INCREDIBLE BRAVERY protecting Flo!
+   - A ROYAL GUARD delivers an invitation!
+   - KING CHARLES invites them to afternoon tea!
+   - **True friendship means protecting each other!**
+   - Accessible at: `adventure-14-hyde-park.html`
+
+15. **Our Fifteenth Adventure: Shopping Spree! 🛍️**
+   - The ultimate London shopping adventure!
+   - Accessible at: `adventure-15-shopping-spree.html`
+
+16. **Our Sixteenth Adventure: Meeting the King! 👑**
+   - AFTERNOON TEA at Buckingham Palace with King Charles!
+   - The most AMAZING royal experience
+   - Learning royal etiquette and traditions
+   - The King's wisdom about friendship and bravery
+   - **A day they'll never forget!**
+   - Accessible at: `adventure-16-meeting-the-king.html`
+
+17. **Our Seventeenth Adventure: St Paul's Cathedral! ⛪**
+   - Climbing 528 steps to the top!
+   - Discovering the Whispering Gallery
+   - The magnificent golden dome
+   - Christopher Wren's masterpiece
+   - **Every step worth it for the view!**
+   - Accessible at: `adventure-17-st-pauls-cathedral.html`
+
+18. **Our Eighteenth Adventure: Portobello Road! 🎨**
+   - Exploring the world-famous antiques market
+   - Colorful houses and vintage treasures
+   - **Finding unique memories in every corner!**
+   - Accessible at: `adventure-18-portobello-road.html`
+
+19. **Our Nineteenth Adventure: Thames River Cruise! 🚢**
+   - Sailing on the historic River Thames
+   - Seeing London from the water
+   - Passing under iconic bridges
+   - **A different perspective on their adventures!**
+   - Accessible at: `adventure-19-thames-cruise.html`
+
+20. **Our Twentieth Adventure: Piccadilly Circus! 💡**
+   - Bright lights and big city energy!
+   - The famous illuminated signs
+   - Eros statue and bustling crowds
+   - **The heart of London's West End!**
+   - Accessible at: `adventure-20-piccadilly-circus.html`
+
+21. **Our Twenty-First Adventure: SEA LIFE London Aquarium! 🐠**
+   - Underwater wonderland beneath the Thames
+   - Meeting sharks, rays, and sea turtles
+   - Walking through the glass tunnel
+   - **Discovering the ocean's amazing creatures!**
+   - Accessible at: `adventure-21-sea-life-aquarium.html`
+
+22. **Our Twenty-Second Adventure: London Zoo! 🦁** ⭐ FINAL LONDON ADVENTURE!
+   - Visiting the world's oldest zoo (opened 1828!)
+   - Meeting giraffes - the tallest animals on Earth!
+   - Watching lions sleep 20 hours a day (just like Lexi!)
+   - Making friends with penguins at Penguin Beach
+   - Exploring the historic Reptile House
+   - Discovering over 750 species of amazing animals
+   - Learning about ZSL's conservation efforts
+   - The PERFECT ending to their London journey
+   - Exhausted but happy - promising forever adventures together!
+   - **"This isn't the end - there's a whole world waiting for us!"**
+   - Accessible at: `adventure-22-london-zoo.html`
+
+### 🎊 London Adventures Complete!
+
+Flo and Lexi have finished their incredible London journey! From their first red bus ride to their final day at London Zoo, they've:
+- Explored 22 amazing locations
+- Climbed 528 steps to the top of St Paul's Cathedral
+- Had afternoon tea with King Charles at Buckingham Palace
+- Made countless memories together
+- Proven that friendship knows no boundaries
+
+### 🌍 Coming Soon - New Adventures Await!
+Where will Flo and Lexi go next? Paris? New York? Tokyo? Stay tuned!
 
 ### 📅 Next Steps
 1. **Continue adding adventures** as Flo and Lexi explore more locations
@@ -467,4 +535,4 @@ This project is created for personal use to document the real adventures of Flo 
 
 **Built with ❤️ for Flo & Lexi's Amazing Adventures!** 🐾
 
-*Last Updated: February 2026 - Thirteenth Adventure Added: Hyde Park - A Royal Day! 👑*
+*Last Updated: March 2026 - Twenty-Second Adventure Added: London Zoo! 🦁 - LONDON ADVENTURES COMPLETE!*
