@@ -12,29 +12,35 @@
 <body>
     <!-- Navigation -->
     <nav class="navbar">
-        <div class="nav-container">
-            <a href="index.html" class="logo">
+        <div class="container">
+            <div class="nav-brand">
                 <i class="fas fa-paw"></i>
-                Flo & Lexi
-            </a>
+                <span>The Unexpected Adventures of Flo & Lexi</span>
+            </div>
             <ul class="nav-menu">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About Us</a></li>
                 <li><a href="contact.html">Contact Us</a></li>
-                <li><a href="blog.html" class="active">Adventures</a></li>
+                <li><a href="blog.html">Adventures</a></li>
             </ul>
-            <button class="mobile-menu-toggle">
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">
                 <i class="fas fa-bars"></i>
             </button>
         </div>
     </nav>
 
     <!-- Adventure Header -->
-    <header class="adventure-header" style="background: linear-gradient(135deg, #d8b5ff 0%, #b794f6 100%);">
-        <div class="header-content">
-            <i class="fas fa-crown" style="font-size: 4rem; margin-bottom: 1rem; color: gold;"></i>
-            <h1>Our Sixteenth Adventure: Meeting The King! 👑</h1>
-            <p class="location"><i class="fas fa-map-marker-alt"></i> Buckingham Palace, London</p>
+    <header class="page-header" style="background: linear-gradient(135deg, #d8b5ff, #b794f6);">
+        <div class="container">
+            <div class="page-header-content">
+                <div class="page-icon">
+                    <i class="fas fa-crown"></i>
+                </div>
+                <h1 class="page-title">Our Sixteenth Adventure: Meeting The King! 👑</h1>
+                <p class="page-subtitle">
+                    <i class="fas fa-map-marker-alt"></i> Buckingham Palace, London
+                </p>
+            </div>
         </div>
     </header>
 

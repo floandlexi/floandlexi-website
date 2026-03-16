@@ -165,7 +165,7 @@ const adventures = [
         location: "Hamleys Toy Store, Regent Street, London",
         image: "https://www.genspark.ai/api/files/s/fPwmLafx",
         excerpt: "SEVEN FLOORS OF TOYS! We explored the world's most famous toy store (since 1760!), watched magic shows, tried EVERYTHING, and learned that joy never gets old! 🎪✨",
-        url: "adventure-15-shopping-spree-part-1-hamleys.html"
+        url: "adventure-14-shopping-spree-part-1-hamleys.html"
     },
     
     // FIFTEENTH adventure - Shopping Spree Part 2 - Disney Store!
@@ -175,7 +175,7 @@ const adventures = [
         location: "Disney Store, 350-352 Oxford Street, London",
         image: "https://www.genspark.ai/api/files/s/Byx4MilD",
         excerpt: "Step into a world of Disney magic! Giant character displays, princess dress-up, and ELSA AND ANNA singing! Dreams really do come true in this magical store! ✨👑",
-        url: "adventure-15-shopping-spree-part-2-disney-store.html"
+        url: "adventure-14-shopping-spree-part-2-disney-store.html"
     },
     
     // FIFTEENTH adventure - Shopping Spree Part 3 - Harrods!
@@ -185,7 +185,7 @@ const adventures = [
         location: "Harrods, Knightsbridge, London",
         image: "https://www.genspark.ai/api/files/s/Gz8rsncZ",
         excerpt: "IS THIS A PALACE?! 330 departments! Egyptian escalators! We had ROYAL LUNCH in the Food Hall and learned that you can window shop anywhere - even at the fanciest store in London! 👑✨",
-        url: "adventure-15-shopping-spree-part-3-harrods.html"
+        url: "adventure-14-shopping-spree-part-3-harrods.html"
     },
     
     // FIFTEENTH adventure - Shopping Spree Part 4 - Oxford Street!
@@ -195,7 +195,7 @@ const adventures = [
         location: "Oxford Street, London",
         image: "https://www.genspark.ai/api/files/s/0lhS6Ep4",
         excerpt: "We found them! The PERFECT royal outfits! Flo's elegant blue jacket with her signature red bandana, and Lexi's sophisticated emerald green ensemble! We're palace-ready and still totally US! 👑✨",
-        url: "adventure-15-shopping-spree-part-4-oxford-street.html"
+        url: "adventure-14-shopping-spree-part-4-oxford-street.html"
     },
     
     // FOURTEENTH adventure - Hyde Park - A Royal Day!
